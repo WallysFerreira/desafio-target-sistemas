@@ -1,6 +1,6 @@
 namespace fibonacci;
 
-public class ProgramTest {
+public class FibonacciTest {
     [Fact]
     public void PerfectSquareTest() {
         int[] perfectSquareNumbers = [0, 1, 4, 9, 16, 25];
