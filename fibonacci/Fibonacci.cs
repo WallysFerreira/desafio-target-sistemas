@@ -1,6 +1,6 @@
 namespace fibonacci;
 
-public class Main {
+public class Fibonacci {
     public static bool isPerfectSquare(int num) {
         double squareRoot = Math.Round(Math.Sqrt(num));
 
